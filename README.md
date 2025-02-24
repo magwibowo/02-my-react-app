@@ -1,70 +1,46 @@
-# Getting Started with Create React App
+LAPORAN PRAKTIKUM 2
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+==========
 
-## Available Scripts
+NPM : 2440107027001
+NAMA : M. AGUNG WIBOWO
+KELAS : TI - 4K RPL
 
-In the project directory, you can run:
+==========
 
-### `npm start`
+**Membuat Komponen React** <br>
+1.	Buka file src/App.js di text editor Anda. <br>
+2.	Ganti kode di dalamnya dengan kode berikut untuk membuat komponen sederhana: <br>
+App.js dan Example pada App.js <br>
+![image](https://github.com/user-attachments/assets/f10ae2fa-a3fd-4786-a80b-b7a0d431cd9f) <br>
+![image](https://github.com/user-attachments/assets/b320b7c1-008d-4a7a-afa5-59b9013193b7) <br>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+**Menggunakan Props untuk Mengirim Data** <br>
+1.	Buat file baru di direktori src dengan nama Greeting.js. <br>
+2.	Tambahkan kode berikut untuk membuat komponen Greeting yang menerima props: <br>
+![image](https://github.com/user-attachments/assets/61779fb6-d8ea-425c-b204-14143a431a5d) <br>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+**Menggunakan JSX untuk Membuat Komponen Dinamis** <br>
+1.	Buat file baru di direktori src dengan nama Counter.js. <br>
+2.	Tambahkan kode berikut untuk membuat komponen Counter yang dinamis: <br>
+Counter.js <br>
+![image](https://github.com/user-attachments/assets/cb829259-1d26-4573-aa35-153cbe8293f1) <br>
 
-### `npm test`
+Tugas : <br>
+1.	Buat komponen baru bernama TodoList yang menampilkan daftar tugas (todo list). Gunakan state untuk mengelola daftar tugas dan props untuk mengirim data tugas ke komponen anak. <br>
+2.	Tambahkan fitur untuk menambahkan tugas baru ke dalam daftar menggunakan form input. <br>
+3.	Implementasikan fitur untuk menghapus tugas dari daftar. <br>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+**Hasil :** <br>
+Sebelum
+![image](https://github.com/user-attachments/assets/4c9a9e2d-31c4-435f-89a7-ee55bf6950d9) <br>
+Sesudah <br>
+![image](https://github.com/user-attachments/assets/1ff79b98-f494-421f-9e1a-859c95c09e78) <br>
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
