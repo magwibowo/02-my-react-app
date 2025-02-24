@@ -30,6 +30,8 @@ Tugas : <br>
 1.	Buat komponen baru bernama TodoList yang menampilkan daftar tugas (todo list). Gunakan state untuk mengelola daftar tugas dan props untuk mengirim data tugas ke komponen anak. <br>
 2.	Tambahkan fitur untuk menambahkan tugas baru ke dalam daftar menggunakan form input. <br>
 3.	Implementasikan fitur untuk menghapus tugas dari daftar. <br>
+![image](https://github.com/user-attachments/assets/05e5b70d-9c12-43e5-bb55-b410e388312d) <br>
+
 
 **Hasil :** <br>
 Sebelum
